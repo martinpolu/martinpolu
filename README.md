@@ -5,5 +5,6 @@
   en Python, generalmente sobre análisis de datos, también en análisis de imágenes con identificación de objetos.
 </p>
 <p align="center">
-  💼 Linkedin: www.linkedin.com/in/MartinPolunosik
+  📫 martinpolu@gmail.com
+  💼 LinkedIn: www.linkedin.com/in/MartinPolunosik
 </p>
